@@ -4,13 +4,13 @@
 <style>
  html{
    font-size: 10px;
-   background-color: light blue;
+   background-color:  lightblue;
    color: white
-   font-family: sans-serif;
+   font-family: aqua;
  }
   #test {
-    background-color: light red;
-    color: green;
+    background-color:  lightcoral;
+    color: lightgreen;
     font-size: 20px
     font-family: sans-serif;
   }
